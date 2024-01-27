@@ -3,7 +3,7 @@ Hi there,
 welcome to my GitHub profile. My name is Lukas Pieper and I'm a .NET developer, however doing mostly Android related coding in my free time.
 Furthermore, open source enthusiast and interested in security and privacy.
 
-Get in touch on Mastodon: <a rel="nofollow me" href="https://digitalcourage.social/@lukaspieper">digitalcourage.social/@lukaspieper</a>
+Get in touch on Mastodon: [@lukaspieper@social.tchncs.de](https://social.tchncs.de/@lukaspieper)
 
 **Here is a short list of my active projects:**
 
